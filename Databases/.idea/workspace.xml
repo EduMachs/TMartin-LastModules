@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff7d3c49-a7fd-487f-84b2-3d8ecc20fc6c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/Analyst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/BigData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/CEO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/Flyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/Hr5m.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/IEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/Pilot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/Programmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/StreamsStuff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/main/java/com/eduardino/employees/employees.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/src/test/java/com/eduardino/employees/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/Analyst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/BigData$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/BigData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/CEO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/Employee$DummyEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/Employee$Jumper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/Flyer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/IEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/Pilot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/Programmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/classes/com/eduardino/employees/StreamsStuff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Employees/target/test-classes/com/eduardino/employees/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/Java-Terry-Martin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/ControlFlow/GuessIt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/ControlFlow/GuessIt2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/NumbersAndMath/CompoundInterestCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/NumbersAndMath/MathStuff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/NumbersAndMath/NumericWrappers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/NumbersAndMath/centripedalForce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/Regex/PeopleMatching.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/Regex/RegexPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/Regex/RegexPractice2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/Regex/TranscriptParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/Regex/Transcript_Example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/Strings/LearnStringConcatenation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/Strings/LearnStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/Strings/LearnSubstringing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/Strings/SearchinWithinString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/out/production/Java-Terry-Martin/Strings/SplittingStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/ControlFlow/GuessIt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/ControlFlow/GuessIt2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/7.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/classes/java/main/com/eduardino/blackjack/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/classes/java/main/com/eduardino/blackjack/Rank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/classes/java/main/com/eduardino/blackjack/Suit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/classes/java/test/com/eduardino/blackjack/CardTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/classes/java/test/com/eduardino/blackjack/RankTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/classes/java/test/com/eduardino/blackjack/SuitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/reports/tests/test/classes/com.eduardino.blackjack.SuitTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/reports/tests/test/packages/com.eduardino.blackjack.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/test-results/test/TEST-com.eduardino.blackjack.SuitTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/src/main/java/com/eduardino/blackjack/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/src/main/java/com/eduardino/blackjack/Rank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/src/main/java/com/eduardino/blackjack/Suit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/src/test/java/com/eduardino/blackjack/CardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/src/test/java/com/eduardino/blackjack/RankTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Enums/src/test/java/com/eduardino/blackjack/SuitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/NumbersAndMath/CompoundInterestCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/NumbersAndMath/MathStuff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/NumbersAndMath/NumericWrappers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/NumbersAndMath/centripedalForce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Regex/PeopleMatching.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Regex/RegexPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Regex/RegexPractice2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Regex/TranscriptParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Regex/Transcript_Example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Strings/LearnStringConcatenation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Strings/LearnStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Strings/LearnSubstringing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Strings/SearchinWithinString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Terry-Martin/src/Strings/SplittingStrings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/.idea/libraries/junit_jupiter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/Calculator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/JavaTesting-Terry-Martin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/out/production/JavaTesting-Terry-Martin/com/eduzino/calculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/out/production/JavaTesting-Terry-Martin/com/eduzino/calculator/GuessingGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/out/test/JavaTesting-Terry-Martin/com/eduzino/calculator/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/out/test/JavaTesting-Terry-Martin/com/eduzino/calculator/GuessingGameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/src/main/com/eduzino/calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/src/main/com/eduzino/calculator/GuessingGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/src/test/com/eduzino/calculator/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaTesting-Terry-Martin/src/test/com/eduzino/calculator/GuessingGameTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2CS79Ln8hzyjhPavAQUAcoYXima" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff7d3c49-a7fd-487f-84b2-3d8ecc20fc6c" name="Changes" comment="" />
+      <created>1658783981044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658783981044</updated>
+    </task>
+    <servers />
+  </component>
+</project>
