@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e86e4d5-2b23-40c1-92e0-6083a4a9cf40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eduardino/peopledbweb/biz/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eduardino/peopledbweb/web/controller/PeopleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/people.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eduardino/peopledbweb/data/PersonDataLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eduardino/peopledbweb/data/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eduardino/peopledbweb/web/formatter/BigDecimalFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eduardino/peopledbweb/web/formatter/LocalDateFormatter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eduardino/peopledbweb/biz/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eduardino/peopledbweb/biz/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eduardino/peopledbweb/web/controller/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eduardino/peopledbweb/web/controller/PeopleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/people.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +63,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/DBeSpringTM/Spring-Intro"
   }
 }]]></component>
   <component name="RunManager">
